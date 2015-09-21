@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  SidebarExample
 //
-//  Created by i_feyuwu on 2015/9/21.
+//  Created by Franky Wu on 2015/9/21.
 //  Copyright © 2015年 FET. All rights reserved.
 //
 

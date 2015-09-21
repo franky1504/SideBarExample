@@ -1,22 +1,22 @@
 //
-//  ViewController.m
+//  FrontViewController.m
 //  SidebarExample
 //
-//  Created by i_feyuwu on 2015/9/21.
+//  Created by Franky Wu on 2015/9/21.
 //  Copyright © 2015年 FET. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "FrontViewController.h"
 
-@interface ViewController ()
+@interface FrontViewController ()
 
 @end
 
-@implementation ViewController
+@implementation FrontViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    [SideBarInit initSideBar:self withLeftViewWdith:120 withRightViewWdith:160];
 }
 
 - (void)didReceiveMemoryWarning {
