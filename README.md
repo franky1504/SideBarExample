@@ -5,8 +5,8 @@
 
 #使用方法
 
-1.設定segue identifier  
-  左方：Table(sw_rear) 右方：Collection(sw_right) 首頁：(sw_front)  
-2.import SideBarInit.h  
-3.使用method  
-  +(void)initSideBar:(UIViewController *)viewController withLeftViewWdith:(int )Lwidth withRightViewWdith:(int )Rwidth;
+1.設定segue identifier</br>  
+    左方：Table(sw_rear) 右方：Collection(sw_right) 首頁：(sw_front)</br>  
+2.import SideBarInit.h</br>  
+3.使用method</br>  
+    +(void)initSideBar:(UIViewController *)viewController withLeftViewWdith:(int )Lwidth withRightViewWdith:(int )Rwidth;
