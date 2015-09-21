@@ -1,10 +1,9 @@
-//
-//  Created by Franky Wu on 2015/9/21.
-//  Copyright © 2015年 FET. All rights reserved.
-//
+//<\br>
+//  Created by Franky Wu on 2015/9/21.<\br>
+//  Copyright © 2015年 FET. All rights reserved.<\br>
+//<\br>
 
-
-- 使用方法
+#使用方法
 
 1.設定segue identifier
   左方：Table(sw_rear) 右方：Collection(sw_right) 首頁：(sw_front)
